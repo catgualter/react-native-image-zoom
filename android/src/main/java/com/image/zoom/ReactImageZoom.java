@@ -18,6 +18,8 @@ import java.util.List;
  * RNMK Package declaration.
  *
  * Created by ywu on 15/9/23.
+ 
+ * Updated by Cat on 06-10-2017
  */
 public class ReactImageZoom implements ReactPackage {
 
@@ -26,7 +28,6 @@ public class ReactImageZoom implements ReactPackage {
     return Collections.emptyList();
   }
 
-  @Override
   public List<Class<? extends JavaScriptModule>> createJSModules() {
     return Collections.emptyList();
   }

@@ -1,4 +1,6 @@
-# Image pan and zoom for Android
+# [FORKED] Image pan and zoom for Android
+
+### for RN 0.47+ Compat
 
 ```bash
 npm install --save react-native-image-zoom

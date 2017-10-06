@@ -1,14 +1,14 @@
 {
   "name": "react-native-image-zoom",
-  "version": "0.31.0",
-  "description": "React Native wrappers for PhotoView and universal-image-loader",
+  "version": "0.32.1",
+  "description": "[Forked for RN 0.47+ Compat]React Native wrappers for PhotoView and universal-image-loader",
   "main": "image.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Anthonyzou/react-native-image-zoom.git"
+    "url": "git+https://github.com/catgualter/react-native-image-zoom.git"
   },
   "keywords": [
     "react-native",
